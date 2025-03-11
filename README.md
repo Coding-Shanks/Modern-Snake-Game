@@ -10,8 +10,7 @@ A **visually enhanced Snake Game** inspired by the classic **Nokia mobile game**
 ✅ Easy to customize and modify  
 
 ## 🎮 Demo  
-🔗 [Live Demo](#) *(Add your live demo link here)*  
-
+🔗 [Live Demo](https://modern-snake-game-l1pc.vercel.app/) 
 ## 🛠️ Installation  
 1. **Clone the repository**  
    ```bash
