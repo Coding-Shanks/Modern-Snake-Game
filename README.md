@@ -27,7 +27,7 @@ A **visually enhanced Snake Game** inspired by the classic **Nokia mobile game**
 - Avoid colliding with the walls or yourself  
 
 ## 📸 Screenshots  
-*(Add game screenshots here to showcase the UI and animations)*  
+![Screenshot](Screenshot_9.png)
 
 ## 🎯 Technologies Used  
 - **HTML5** for game structure  
